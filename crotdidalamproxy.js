@@ -1,0 +1,1 @@
+document.write('<div id="outerprox"><iframe allowtransparency="true" frameborder="0" id="inneriframe" scrolling="no" src="http://www.ip-adress.com/proxy_list/?k=time&amp;d=desc"></iframe></div>');
